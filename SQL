@@ -1,0 +1,4 @@
+- Primary key / Foreign key;  can e several primaty keys;
+- cascade edition of the data which are located in the tables;
+- relations: one to one, one to many, many to many (with a separate table);
+- Normalization rules: all data has to be unique, separate tables for the repeating data, 
